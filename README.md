@@ -1,74 +1,79 @@
 Língua Portuguesa 
 =
-	1. Interpretação de texto. 
-	2. Argumentação. Pressupostos e subentendidos. 
-	3. Níveis de linguagem. 
-	4. Articulação do texto: coesão e coerência. 
-	5. Termos da oração. 
-	6. Processos de coordenação e subordinação. 
-	7. Discurso direto e indireto. 
-	8. Tempos, modos e vozes verbais. 
-	9. Classes de palavras. 
-	10. Flexão nominal e verbal. 
-	11. Concordância nominal e verbal. 
-	12. Regência nominal e verbal. 
-	13. Ocorrência da Crase. 
-	14. Ortografia e acentuação.
-	15. Pontuação. 
-	16. Equivalência e transformação de estruturas. 
-	17. Redação.
+
+1. Interpretação de texto. 
+2. Argumentação. Pressupostos e subentendidos. 
+3. Níveis de linguagem. 
+4. Articulação do texto: coesão e coerência. 
+5. Termos da oração. 
+6. Processos de coordenação e subordinação. 
+7. Discurso direto e indireto. 
+8. Tempos, modos e vozes verbais. 
+9. Classes de palavras. 
+10. Flexão nominal e verbal. 
+11. Concordância nominal e verbal. 
+12. Regência nominal e verbal. 
+13. Ocorrência da Crase. 
+14. Ortografia e acentuação.
+15. Pontuação. 
+16. Equivalência e transformação de estruturas. 
+17. Redação.
 
 Noções de Direito Administrativo
 =
-	1. Princípios básicos da Administração Pública. 
-	2. Administração direta e indireta. 
-	3. Órgãos públicos. 
-	4. Agentes Públicos.
+
+1. Princípios básicos da Administração Pública. 
+2. Administração direta e indireta. 
+3. Órgãos públicos. 
+4. Agentes Públicos.
 
 Ato administrativo
 =
-	1. requisitos, atributos, classificação, espécies, revogação, invalidação e convalidação do ato administrativo. 
-	2. Poderes e deveres dos administradores públicos: 
-		2.1 uso e abuso do poder, 
-		2.2 poderes vinculado, 
-		2.3 discricionário, 
-		2.4 hierárquico, 
-		2.5 disciplinar e regulamentar, 
-		2.6 poder de polícia, 
-		2.7 deveres dos administradores públicos. 
-	3. Regime Jurídico dos Servidores Públicos Federais: 
-		3.1 Lei nº 8.112/90 com alterações posteriores. 
-		3.2 Provimento.
-		3.3 Vacância. 
-		3.4 Direitos e Vantagens. 
-		3.5 Dos deveres. 
-		3.6 Das proibições. 
-		3.7 Da acumulação. 
-		3.8 Das responsabilidades. 
-		3.9 Das penalidades. 
-		3.10 Do processo administrativo disciplinar e sua revisão. 
-	4.0 Licitação e contratos administrativos: 
-		4.1 Lei nº 8.666/93 com alterações posteriores: 
-			4.1.1 Dos princípios. Das modalidades. 
-			4.1.2 Dos contratos. 
-			4.1.3 Da execução. 
-			4.1.4 Da inexecução e da rescisão. 
-			4.1.5 Das sanções. 
-		4.2 Lei nº 10.520/02: 
-			5.1 Do pregão. 
-			5.2 Do processo administrativo (Lei n° 9.784/99).
-	5.0 Improbidade Administrativa (Lei nº 8.429/92).
+
+1. requisitos, atributos, classificação, espécies, revogação, invalidação e convalidação do ato administrativo. 
+2. Poderes e deveres dos administradores públicos: 
+2.1 uso e abuso do poder, 
+2.2 poderes vinculado, 
+2.3 discricionário, 
+2.4 hierárquico, 
+2.5 disciplinar e regulamentar, 
+2.6 poder de polícia, 
+2.7 deveres dos administradores públicos. 
+3. Regime Jurídico dos Servidores Públicos Federais: 
+3.1 Lei nº 8.112/90 com alterações posteriores. 
+3.2 Provimento.
+3.3 Vacância. 
+3.4 Direitos e Vantagens. 
+3.5 Dos deveres. 
+3.6 Das proibições. 
+3.7 Da acumulação. 
+3.8 Das responsabilidades. 
+3.9 Das penalidades. 
+3.10 Do processo administrativo disciplinar e sua revisão. 
+4.0 Licitação e contratos administrativos: 
+4.1 Lei nº 8.666/93 com alterações posteriores: 
+4.1.1 Dos princípios. Das modalidades. 
+4.1.2 Dos contratos. 
+4.1.3 Da execução. 
+4.1.4 Da inexecução e da rescisão. 
+4.1.5 Das sanções. 
+4.2 Lei nº 10.520/02: 
+5.1 Do pregão. 
+5.2 Do processo administrativo (Lei n° 9.784/99).
+5.3 Improbidade Administrativa (Lei nº 8.429/92).
 
 Atos Normativos:
 =
-	1. Código de Conduta do Conselho e da Justiça Federal de primeiro e segundo graus (Resolução nº 147/2011, do Conselho da Justiça Federal). 
+
+1. Código de Conduta do Conselho e da Justiça Federal de primeiro e segundo graus (Resolução nº 147/2011, do Conselho da Justiça Federal). 
 
 Fundamentos de Computação
 =
+
 1. Componentes e arquiteturas de sistemas computacionais (hardware e software). 
 2. Representação de dados: 
-	2.1 binário, hexadecimal e decimal; 
-	2.2 aritmética computacional. 
+2.1 binário, hexadecimal e decimal; 
+2.2 aritmética computacional. 
 3. Processamento paralelo e distribuído. 
 4. Pipeline. 
 5. Multiprocessamento simétrico e assimétrico.
@@ -79,31 +84,32 @@ Fundamentos de Computação
 
 ### 10. Fundamentos de Sistemas Operacionais
 
-	10.1 Gerenciamento de processos e fluxos de execução (threads): 
-		10.1.1 alocação de CPU, 
-		10.1.2 comunicação e sincronização entre processos, 
-		10.1.3 impasses (deadlocks) e 
-		10.1.4 esgotamento de recursos (starvation). 
-	10.2 Gerenciamento de memória: 
-		10.2.1 alocação, 
-		10.2.2 segmentação, 
-		10.2.3 memória virtual e 
-		10.2.4 paginação. 
+10.1 Gerenciamento de processos e fluxos de execução (threads): 
+10.1.1 alocação de CPU, 
+10.1.2 comunicação e sincronização entre processos, 
+10.1.3 impasses (deadlocks) e 
+10.1.4 esgotamento de recursos (starvation). 
+10.2 Gerenciamento de memória: 
+10.2.1 alocação, 
+10.2.2 segmentação, 
+10.2.3 memória virtual e 
+10.2.4 paginação. 
 
 ### 11. Sistemas de entrada e saída:
-		11.1 estruturas de armazenamento secundário e terciário; 
-		11.2 virtualização. 
-		11.3 Ambiente Linux (CentOS e Red Hat) e 
-		11.4 Windows (7 e 10 e Server 2012 e 2012R2). 
+11.1 estruturas de armazenamento secundário e terciário; 
+11.2 virtualização. 
+11.3 Ambiente Linux (CentOS e Red Hat) e 
+11.4 Windows (7 e 10 e Server 2012 e 2012R2). 
 		
 ### 12. Processamento, arquivamento e recuperação automática de informações
-	12.1 Tecnologias, funcionamento e características técnicas: 
-		12.1.1 TV digital de alta definição, 
-		12.1.2 TV interativa, 
-		12.1.3 vídeo sob demanda, 
-		12.1.4 videoconferência. 
-		12.2 Ferramentas de processamento multimídia. 
-		12.3 Conceitos de fitotecas.
+12.1 Tecnologias, funcionamento e características técnicas: 
+12.1.1 TV digital de alta definição, 
+12.1.2 TV interativa, 
+12.1.3 vídeo sob demanda, 
+12.1.4 videoconferência. 
+12.2 Ferramentas de processamento multimídia. 
+12.3 Conceitos de fitotecas.
+		
 13. [Gerenciamento Eletrônico de Documentos – GED](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=ged&instituto=&organizadora=1&prova=&ano_publicacao=&cargo=&escolaridade=&modalidade=&disciplina=503&assunto=&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=true&sem_desatualizadas=true&sem_anuladas_impressao=true&sem_desatualizadas_impressao=true&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=). 
 
 ### 14. Engenharia de software
@@ -157,8 +163,8 @@ Fundamentos de Computação
 ### 22. Soluções de Integração
 
 22.1 [Service-Oriented Architecture - SOA](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=SOA&instituto=&organizadora=1&prova=&ano_publicacao=&cargo=&escolaridade=&modalidade=&disciplina=503&assunto=&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=true&sem_desatualizadas=true&sem_anuladas_impressao=true&sem_desatualizadas_impressao=true&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=), 
-22.2 REST e 
-22.3 Web services. 
+22.2 [REST](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=REST&instituto=&organizadora=1&prova=&ano_publicacao=&cargo=&escolaridade=&modalidade=&disciplina=503+&assunto=9195+&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=true&sem_desatualizadas=true&sem_anuladas_impressao=true&sem_desatualizadas_impressao=true&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=) e 
+22.3 [Web services](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=&instituto=&organizadora=1&prova=&ano_publicacao=&cargo=&escolaridade=&modalidade=&disciplina=503&assunto=9195&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=true&sem_desatualizadas=true&sem_anuladas_impressao=true&sem_desatualizadas_impressao=true&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=). 
 
 ### 23. Fundamentos de programação
 
