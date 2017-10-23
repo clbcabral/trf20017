@@ -107,14 +107,17 @@ Fundamentos de Computação
 13. [Gerenciamento Eletrônico de Documentos – GED](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=ged&instituto=&organizadora=1&prova=&ano_publicacao=&cargo=&escolaridade=&modalidade=&disciplina=503&assunto=&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=true&sem_desatualizadas=true&sem_anuladas_impressao=true&sem_desatualizadas_impressao=true&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=). 
 
 ### 14. Engenharia de software
-	14.1 Princípios. 
-	14.2 [Ciclo de vida de software](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=%22ciclo+de+vida+do+software%22&instituto=&organizadora=1&prova=&ano_publicacao=&cargo=&escolaridade=&modalidade=&disciplina=&assunto=&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=true&sem_desatualizadas=true&sem_anuladas_impressao=true&sem_desatualizadas_impressao=true&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=) (
-		14.2.1 Requisitos, 
-		14.2.2 Análise, 
-		14.2.3 Projeto, 
-		14.2.4 Testes, 
-		14.2.5 Implementação e 
-		14.2.6 Manutenção). 
+
+14.1 Princípios. 
+
+14.2 [Ciclo de vida de software](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=%22ciclo+de+vida+do+software%22&instituto=&organizadora=1&prova=&ano_publicacao=&cargo=&escolaridade=&modalidade=&disciplina=&assunto=&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=true&sem_desatualizadas=true&sem_anuladas_impressao=true&sem_desatualizadas_impressao=true&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=)
+
+14.2.1 Requisitos, 
+14.2.2 Análise, 
+14.2.3 Projeto, 
+14.2.4 Testes, 
+14.2.5 Implementação e 
+14.2.6 Manutenção. 
 15. Análise e projeto orientado a objetos com UML. 
 16. Métricas e estimativas de software. 
 17. Métricas de sistema, de projeto, de implementação e de resultados. 
