@@ -76,9 +76,8 @@ Fundamentos de Computação
 7. conjuntos de instrução. 
 8. Hierarquia de memória. 
 9. Interface entre processadores e periféricos. 
-10. Fundamentos de Sistemas Operacionais
+Fundamentos de Sistemas Operacionais
 =
-
 	10.1 Gerenciamento de processos e fluxos de execução (threads): 
 		10.1.1 alocação de CPU, 
 		10.1.2 comunicação e sincronização entre processos, 
