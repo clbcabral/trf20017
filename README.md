@@ -64,6 +64,7 @@ Atos Normativos:
 	1. Código de Conduta do Conselho e da Justiça Federal de primeiro e segundo graus (Resolução nº 147/2011, do Conselho da Justiça Federal). 
 
 Fundamentos de Computação
+=
 1. Componentes e arquiteturas de sistemas computacionais (hardware e software). 
 2. Representação de dados: 
 	2.1 binário, hexadecimal e decimal; 
@@ -76,6 +77,7 @@ Fundamentos de Computação
 8. Hierarquia de memória. 
 9. Interface entre processadores e periféricos. 
 10. Fundamentos de Sistemas Operacionais
+=
 	10.1 Gerenciamento de processos e fluxos de execução (threads): 
 		10.1.1 alocação de CPU, 
 		10.1.2 comunicação e sincronização entre processos, 
@@ -87,11 +89,13 @@ Fundamentos de Computação
 		10.2.3 memória virtual e 
 		10.2.4 paginação. 
 11. Sistemas de entrada e saída:
+=
 		11.1 estruturas de armazenamento secundário e terciário; 
 		11.2 virtualização. 
 		11.3 Ambiente Linux (CentOS e Red Hat) e 
 		11.4 Windows (7 e 10 e Server 2012 e 2012R2). 
 12. Processamento, arquivamento e recuperação automática de informações
+=
 	12.1 Tecnologias, funcionamento e características técnicas: 
 		12.1.1 TV digital de alta definição, 
 		12.1.2 TV interativa, 
@@ -101,6 +105,7 @@ Fundamentos de Computação
 		12.3 Conceitos de fitotecas.
 13. Gerenciamento Eletrônico de Documentos – GED. 
 14. Engenharia de software
+=
 	14.1 Princípios. 
 	14.2 Ciclo de vida de software (
 		14.2.1 Requisitos, 
@@ -113,6 +118,7 @@ Fundamentos de Computação
 16. Métricas e estimativas de software. 
 17. Métricas de sistema, de projeto, de implementação e de resultados. 
 18. Metodologias ágeis
+=
 	18.1 [SCRUM](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=&instituto=&organizadora=1&prova=&ano_publicacao=&cargo=&escolaridade=&modalidade=&disciplina=&assunto=5943&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=true&sem_desatualizadas=true&sem_anuladas_impressao=true&sem_desatualizadas_impressao=true&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=), 
 	18.2 [XP](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=&instituto=&organizadora=1+&prova=&ano_publicacao=&cargo=&escolaridade=&modalidade=&disciplina=&assunto=1656&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=true&sem_desatualizadas=true&sem_anuladas_impressao=true&sem_desatualizadas_impressao=true&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=). 
 19. [Modelagem de processos de negócio](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=BPM&instituto=&organizadora=1&prova=&ano_publicacao=&cargo=&escolaridade=&modalidade=&disciplina=&assunto=&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=true&sem_desatualizadas=true&sem_anuladas_impressao=true&sem_desatualizadas_impressao=true&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=)
@@ -120,7 +126,7 @@ Fundamentos de Computação
 	19.2 [notação BPMN](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=BPMN&instituto=&organizadora=1&prova=&ano_publicacao=&cargo=&escolaridade=&modalidade=&disciplina=&assunto=&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=true&sem_desatualizadas=true&sem_anuladas_impressao=true&sem_desatualizadas_impressao=true&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=) e 
 	19.3 Canvas. 
 20. Gerenciamento de projetos
--
+=
 	20.1 [PMBOK 5ª edição](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=&instituto=&organizadora=1+&prova=&ano_publicacao=&cargo=&escolaridade=&modalidade=&disciplina=118+&assunto=19799+&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=true&sem_desatualizadas=true&sem_anuladas_impressao=true&sem_desatualizadas_impressao=true&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=): 
 		20.1.1 Conceitos, 
 		20.1.2 estrutura e 
@@ -131,7 +137,7 @@ Fundamentos de Computação
 	20.5 grupos de processo e 
 	20.6 áreas de conhecimento. 
 21. Arquitetura de software
--
+=
 	21.1 Padrões de projeto (
 		21.1.1 [Java Enterprise Patterns](http://www.allitebooks.com/professional-java-ee-design-patterns/), 
 		21.1.2 [Gof (Gang of Four)](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=%22design+patterns%22&instituto=&organizadora=1&prova=&ano_publicacao=&cargo=&escolaridade=&modalidade=&disciplina=&assunto=&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=true&sem_desatualizadas=true&sem_anuladas_impressao=true&sem_desatualizadas_impressao=true&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=) [alt1](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=gof&instituto=&organizadora=1&prova=&ano_publicacao=&cargo=&escolaridade=&modalidade=&disciplina=&assunto=&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=true&sem_desatualizadas=true&sem_anuladas_impressao=true&sem_desatualizadas_impressao=true&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=) [alt2](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=%22gang+of+four%22&instituto=&organizadora=1&prova=&ano_publicacao=&cargo=&escolaridade=&modalidade=&disciplina=&assunto=&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=true&sem_desatualizadas=true&sem_anuladas_impressao=true&sem_desatualizadas_impressao=true&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=) e 
@@ -141,10 +147,12 @@ Fundamentos de Computação
 	21.4 [Arquitetura em 3 camadas](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=Arquitetura+em+3+camadas&instituto=&organizadora=1&prova=&ano_publicacao=&cargo=&escolaridade=&modalidade=&disciplina=503+&assunto=&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=true&sem_desatualizadas=true&sem_anuladas_impressao=true&sem_desatualizadas_impressao=true&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=). 
 	21.5 [Padrão MVC](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=mvc&instituto=&organizadora=1&prova=&ano_publicacao=&cargo=&escolaridade=&modalidade=&disciplina=&assunto=&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=true&sem_desatualizadas=true&sem_anuladas_impressao=true&sem_desatualizadas_impressao=true&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=) [alt1](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=mvc&instituto=&organizadora=1&prova=&ano_publicacao=&cargo=&escolaridade=&modalidade=&disciplina=503+&assunto=&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=true&sem_desatualizadas=true&sem_anuladas_impressao=true&sem_desatualizadas_impressao=true&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=). 
 22. Soluções de Integração
+=
 	22.1 [Service-Oriented Architecture - SOA](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=SOA&instituto=&organizadora=1&prova=&ano_publicacao=&cargo=&escolaridade=&modalidade=&disciplina=503&assunto=&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=true&sem_desatualizadas=true&sem_anuladas_impressao=true&sem_desatualizadas_impressao=true&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=), 
 	22.2 REST e 
 	22.3 Web services. 
 23. Fundamentos de programação
+=
 	23.1 Lógica de programação (
 		23.1.1 operadores e expressões; 
 		23.1.2 estruturas de controle, 
@@ -166,6 +174,7 @@ Fundamentos de Computação
 	23.5 Compiladores e 
 	23.6 interpretadores. 
 24. Linguagens e ambientes de programação:
+=
 	24.1 Java e 
 	24.2 PHP. 
 	24.3 Spring Framework (
@@ -180,12 +189,15 @@ Fundamentos de Computação
 		24.4.4 Web Services, 
 		24.4.5 JAX-RS 2.X) 
 25. Testes de software. 
+=
 	25.1 Testes de unidade com JUnit. 
 26. Programação para Dispositivos móveis: 
+=
 	26.1 Android, 
 	26.2 IOS. 
 	26.3 Design responsivo para dispositivos móveis. 
 27. Tecnologias e linguagens para desenvolvimento de sistemas web: 
+=
 	27.1 HTML5, 
 	27.2 CSS3, 
 	27.3 jQuery, 
@@ -194,6 +206,7 @@ Fundamentos de Computação
 	27.6 JavaScript, 
 	27.7 Angular 1.x.
 28. Servidor de aplicações
+=
 	28.1 Servidor web. 
 	28.2 Ambientes internet, 
 	28.3 extranet, 
@@ -201,6 +214,7 @@ Fundamentos de Computação
 	28.5 Portal - finalidades, 
 	28.6 características físicas e lógicas, aplicações e serviços.
 29. Banco de dados
+=
 	29.1 Fundamentos
 		29.1.1 finalidades, 
 		29.1.2 níveis de abstração, 
@@ -213,6 +227,7 @@ Fundamentos de Computação
 			29.1.3.6 PL/SQL. 
 	29.2 PostgreSQL 9 e Oracle 12c. 
 30. Acessibilidade e engenharia de usabilidade
+=
 	30.1 Conceitos básicos de engenharia de usabilidade e 
 	30.2 arquitetura da informação. 
 	30.3 Recursos de usabilidade, 
@@ -225,6 +240,7 @@ Fundamentos de Computação
 	30.10 Cartilha de usabilidade para Sítios e Portais do Governo Federal – Projeto Padrões Brasil e-Gov.
 		30.10.1 Implementação da acessibilidade em HTML (W3C/WAI). 
 31. Gerenciamento de serviços:
+=
 	31.1 ITIL v.3 edição 2011: 	
 		31.1.1 Conceitos, 
 		31.1.2 estrutura e objetivos, 
