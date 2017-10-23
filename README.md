@@ -149,19 +149,15 @@ Fundamentos de Computação
 21.2 [Refatoração](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=refatora%C3%A7%C3%A3o&instituto=&organizadora=1&prova=&ano_publicacao=&cargo=&escolaridade=&modalidade=&disciplina=&assunto=&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=true&sem_desatualizadas=true&sem_anuladas_impressao=true&sem_desatualizadas_impressao=true&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=) [alt1](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=refactoring&instituto=&organizadora=1&prova=&ano_publicacao=&cargo=&escolaridade=&modalidade=&disciplina=&assunto=&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=true&sem_desatualizadas=true&sem_anuladas_impressao=true&sem_desatualizadas_impressao=true&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=). 
 21.3 [Clean Code](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=%22clean+code%22&instituto=&organizadora=1&prova=&ano_publicacao=&cargo=&escolaridade=&modalidade=&disciplina=&assunto=&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=true&sem_desatualizadas=true&sem_anuladas_impressao=true&sem_desatualizadas_impressao=true&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=) [alt1](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=%22c%C3%B3digo+limpo%22&instituto=&organizadora=1&prova=&ano_publicacao=&cargo=&escolaridade=&modalidade=&disciplina=&assunto=&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=true&sem_desatualizadas=true&sem_anuladas_impressao=true&sem_desatualizadas_impressao=true&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=). 
 21.4 [Arquitetura em 3 camadas](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=Arquitetura+em+3+camadas&instituto=&organizadora=1&prova=&ano_publicacao=&cargo=&escolaridade=&modalidade=&disciplina=503+&assunto=&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=true&sem_desatualizadas=true&sem_anuladas_impressao=true&sem_desatualizadas_impressao=true&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=). 
-21.5 [Padrão MVC](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=mvc&instituto=&organizadora=1&prova=&ano_publicacao=&cargo=&escolaridade=&modalidade=&disciplina=&assunto=&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=true&sem_desatualizadas=true&sem_anuladas_impressao=true&sem_desatualizadas_impressao=true&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=) [alt1](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=mvc&instituto=&organizadora=1&prova=&ano_publicacao=&cargo=&escolaridade=&modalidade=&disciplina=503+&assunto=&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=true&sem_desatualizadas=true&sem_anuladas_impressao=true&sem_desatualizadas_impressao=true&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=). 
+21.5 [Padrão MVC](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=mvc&instituto=&organizadora=1&prova=&ano_publicacao=&cargo=&escolaridade=&modalidade=&disciplina=&assunto=&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=true&sem_desatualizadas=true&sem_anuladas_impressao=true&sem_desatualizadas_impressao=true&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=) [alt1](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=mvc&instituto=&organizadora=1&prova=&ano_publicacao=&cargo=&escolaridade=&modalidade=&disciplina=503+&assunto=&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=true&sem_desatualizadas=true&sem_anuladas_impressao=true&sem_desatualizadas_impressao=true&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=).
 
-
-22. Soluções de Integração
-=
-
+### 22. Soluções de Integração
 
 22.1 [Service-Oriented Architecture - SOA](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=SOA&instituto=&organizadora=1&prova=&ano_publicacao=&cargo=&escolaridade=&modalidade=&disciplina=503&assunto=&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=true&sem_desatualizadas=true&sem_anuladas_impressao=true&sem_desatualizadas_impressao=true&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=), 
 22.2 REST e 
 22.3 Web services. 
 
-23. Fundamentos de programação
-=
+### 23. Fundamentos de programação
 
 23.1 Lógica de programação (
 23.1.1 operadores e expressões; 
@@ -184,8 +180,7 @@ Fundamentos de Computação
 23.5 Compiladores e 
 23.6 interpretadores. 
 
-24. Linguagens e ambientes de programação:
-=
+### 24. Linguagens e ambientes de programação:
 
 24.1 Java e 
 24.2 PHP. 
@@ -201,20 +196,17 @@ Fundamentos de Computação
 24.4.4 Web Services, 
 24.4.5 JAX-RS 2.X) 
 
-25. Testes de software. 
-=
+### 25. Testes de software. 
 
 25.1 Testes de unidade com JUnit. 
 
-26. Programação para Dispositivos móveis: 
-=
+### 26. Programação para Dispositivos móveis: 
 
 26.1 Android, 
 26.2 IOS. 
 26.3 Design responsivo para dispositivos móveis. 
 
-27. Tecnologias e linguagens para desenvolvimento de sistemas web: 
-=
+### 27. Tecnologias e linguagens para desenvolvimento de sistemas web: 
 
 27.1 HTML5, 
 27.2 CSS3, 
@@ -224,8 +216,7 @@ Fundamentos de Computação
 27.6 JavaScript, 
 27.7 Angular 1.x.
 
-28. Servidor de aplicações
-=
+### 28. Servidor de aplicações
 
 28.1 Servidor web. 
 28.2 Ambientes internet, 
@@ -234,8 +225,7 @@ Fundamentos de Computação
 28.5 Portal - finalidades, 
 28.6 características físicas e lógicas, aplicações e serviços.
 
-29. Banco de dados
-=
+### 29. Banco de dados
 
 29.1 Fundamentos
 29.1.1 finalidades, 
@@ -249,8 +239,7 @@ Fundamentos de Computação
 29.1.3.6 PL/SQL. 
 29.2 PostgreSQL 9 e Oracle 12c. 
 
-30. Acessibilidade e engenharia de usabilidade
-=
+### 30. Acessibilidade e engenharia de usabilidade
 
 30.1 Conceitos básicos de engenharia de usabilidade e 
 30.2 arquitetura da informação. 
@@ -264,8 +253,7 @@ Fundamentos de Computação
 30.10 Cartilha de usabilidade para Sítios e Portais do Governo Federal – Projeto Padrões Brasil e-Gov.
 30.10.1 Implementação da acessibilidade em HTML (W3C/WAI). 
 
-31. Gerenciamento de serviços:
-=
+### 31. Gerenciamento de serviços:
 
 31.1 ITIL v.3 edição 2011: 	
 31.1.1 Conceitos, 
@@ -279,4 +267,5 @@ Fundamentos de Computação
 31.2.1 Instrução Normativa nº 04, 
 31.2.2 MPOG/SLTI, de 11 de setembro de 2014 atualizada com a redação dada
 pela Instrução Normativa nº 2, de 12 de janeiro de 2015. 
-32. Inglês técnico. 
+
+### 32. Inglês técnico. 
