@@ -120,11 +120,16 @@ Fundamentos de Computação
 
 14.2.1 [Requisitos](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=requisitos&instituto=&organizadora=1&prova=&ano_publicacao=&cargo=&escolaridade=&modalidade=&disciplina=100&assunto=&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=true&sem_desatualizadas=true&sem_anuladas_impressao=true&sem_desatualizadas_impressao=true&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=), 
 
-14.2.2 Análise, 
-14.2.3 Projeto, 
-14.2.4 Testes, 
-14.2.5 Implementação e 
-14.2.6 Manutenção. 
+14.2.2 [Análise](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=an%C3%A1lise&instituto=&organizadora=1&prova=&ano_publicacao=&cargo=&escolaridade=&modalidade=&disciplina=100&assunto=&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=true&sem_desatualizadas=true&sem_anuladas_impressao=true&sem_desatualizadas_impressao=true&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=), 
+
+14.2.3 [Projeto](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=projeto&instituto=&organizadora=1&prova=&ano_publicacao=&cargo=&escolaridade=&modalidade=&disciplina=100&assunto=&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=true&sem_desatualizadas=true&sem_anuladas_impressao=true&sem_desatualizadas_impressao=true&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=), 
+
+14.2.4 [Testes](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=testes&instituto=&organizadora=1&prova=&ano_publicacao=&cargo=&escolaridade=&modalidade=&disciplina=100&assunto=&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=true&sem_desatualizadas=true&sem_anuladas_impressao=true&sem_desatualizadas_impressao=true&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=), 
+
+14.2.5 [Implementação](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=implementa%C3%A7%C3%A3o&instituto=&organizadora=1&prova=&ano_publicacao=&cargo=&escolaridade=&modalidade=&disciplina=100&assunto=&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=true&sem_desatualizadas=true&sem_anuladas_impressao=true&sem_desatualizadas_impressao=true&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=) e 
+
+14.2.6 [Manutenção](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=Manuten%C3%A7%C3%A3o&instituto=&organizadora=1&prova=&ano_publicacao=&cargo=&escolaridade=&modalidade=&disciplina=100&assunto=&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=true&sem_desatualizadas=true&sem_anuladas_impressao=true&sem_desatualizadas_impressao=true&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=). 
+
 15. Análise e projeto orientado a objetos com UML. 
 16. Métricas e estimativas de software. 
 17. Métricas de sistema, de projeto, de implementação e de resultados. 
@@ -132,10 +137,15 @@ Fundamentos de Computação
 ### 18. Metodologias ágeis
 
 18.1 [SCRUM](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=&instituto=&organizadora=1&prova=&ano_publicacao=&cargo=&escolaridade=&modalidade=&disciplina=&assunto=5943&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=true&sem_desatualizadas=true&sem_anuladas_impressao=true&sem_desatualizadas_impressao=true&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=), 
+
 18.2 [XP](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=&instituto=&organizadora=1+&prova=&ano_publicacao=&cargo=&escolaridade=&modalidade=&disciplina=&assunto=1656&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=true&sem_desatualizadas=true&sem_anuladas_impressao=true&sem_desatualizadas_impressao=true&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=). 
+
 19. [Modelagem de processos de negócio](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=BPM&instituto=&organizadora=1&prova=&ano_publicacao=&cargo=&escolaridade=&modalidade=&disciplina=&assunto=&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=true&sem_desatualizadas=true&sem_anuladas_impressao=true&sem_desatualizadas_impressao=true&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=)
+
 19.1 [CBOK](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=CBOK&instituto=&organizadora=1&prova=&ano_publicacao=&cargo=&escolaridade=&modalidade=&disciplina=&assunto=&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=true&sem_desatualizadas=true&sem_anuladas_impressao=true&sem_desatualizadas_impressao=true&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=), 
+
 19.2 [notação BPMN](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=BPMN&instituto=&organizadora=1&prova=&ano_publicacao=&cargo=&escolaridade=&modalidade=&disciplina=&assunto=&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=true&sem_desatualizadas=true&sem_anuladas_impressao=true&sem_desatualizadas_impressao=true&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=) e 
+
 19.3 Canvas. 
 
 ### 20. Gerenciamento de projetos
@@ -153,18 +163,27 @@ Fundamentos de Computação
 ### 21. Arquitetura de software
 
 21.1 Padrões de projeto (
+
 21.1.1 [Java Enterprise Patterns](http://www.allitebooks.com/professional-java-ee-design-patterns/), 
+
 21.1.2 [Gof (Gang of Four)](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=%22design+patterns%22&instituto=&organizadora=1&prova=&ano_publicacao=&cargo=&escolaridade=&modalidade=&disciplina=&assunto=&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=true&sem_desatualizadas=true&sem_anuladas_impressao=true&sem_desatualizadas_impressao=true&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=) [alt1](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=gof&instituto=&organizadora=1&prova=&ano_publicacao=&cargo=&escolaridade=&modalidade=&disciplina=&assunto=&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=true&sem_desatualizadas=true&sem_anuladas_impressao=true&sem_desatualizadas_impressao=true&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=) [alt2](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=%22gang+of+four%22&instituto=&organizadora=1&prova=&ano_publicacao=&cargo=&escolaridade=&modalidade=&disciplina=&assunto=&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=true&sem_desatualizadas=true&sem_anuladas_impressao=true&sem_desatualizadas_impressao=true&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=) e 
+
 21.1.3 [POSA (Pattern-Oriented Software Architecture)](http://www.allitebooks.com/pattern-oriented-software-architecture-for-dummies/). 
+
 21.2 [Refatoração](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=refatora%C3%A7%C3%A3o&instituto=&organizadora=1&prova=&ano_publicacao=&cargo=&escolaridade=&modalidade=&disciplina=&assunto=&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=true&sem_desatualizadas=true&sem_anuladas_impressao=true&sem_desatualizadas_impressao=true&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=) [alt1](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=refactoring&instituto=&organizadora=1&prova=&ano_publicacao=&cargo=&escolaridade=&modalidade=&disciplina=&assunto=&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=true&sem_desatualizadas=true&sem_anuladas_impressao=true&sem_desatualizadas_impressao=true&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=). 
+
 21.3 [Clean Code](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=%22clean+code%22&instituto=&organizadora=1&prova=&ano_publicacao=&cargo=&escolaridade=&modalidade=&disciplina=&assunto=&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=true&sem_desatualizadas=true&sem_anuladas_impressao=true&sem_desatualizadas_impressao=true&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=) [alt1](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=%22c%C3%B3digo+limpo%22&instituto=&organizadora=1&prova=&ano_publicacao=&cargo=&escolaridade=&modalidade=&disciplina=&assunto=&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=true&sem_desatualizadas=true&sem_anuladas_impressao=true&sem_desatualizadas_impressao=true&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=). 
+
 21.4 [Arquitetura em 3 camadas](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=Arquitetura+em+3+camadas&instituto=&organizadora=1&prova=&ano_publicacao=&cargo=&escolaridade=&modalidade=&disciplina=503+&assunto=&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=true&sem_desatualizadas=true&sem_anuladas_impressao=true&sem_desatualizadas_impressao=true&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=). 
+
 21.5 [Padrão MVC](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=mvc&instituto=&organizadora=1&prova=&ano_publicacao=&cargo=&escolaridade=&modalidade=&disciplina=&assunto=&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=true&sem_desatualizadas=true&sem_anuladas_impressao=true&sem_desatualizadas_impressao=true&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=) [alt1](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=mvc&instituto=&organizadora=1&prova=&ano_publicacao=&cargo=&escolaridade=&modalidade=&disciplina=503+&assunto=&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=true&sem_desatualizadas=true&sem_anuladas_impressao=true&sem_desatualizadas_impressao=true&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=).
 
 ### 22. Soluções de Integração
 
 22.1 [Service-Oriented Architecture - SOA](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=SOA&instituto=&organizadora=1&prova=&ano_publicacao=&cargo=&escolaridade=&modalidade=&disciplina=503&assunto=&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=true&sem_desatualizadas=true&sem_anuladas_impressao=true&sem_desatualizadas_impressao=true&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=), 
+
 22.2 [REST](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=REST&instituto=&organizadora=1&prova=&ano_publicacao=&cargo=&escolaridade=&modalidade=&disciplina=503+&assunto=9195+&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=true&sem_desatualizadas=true&sem_anuladas_impressao=true&sem_desatualizadas_impressao=true&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=) e 
+
 22.3 [Web services](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=&instituto=&organizadora=1&prova=&ano_publicacao=&cargo=&escolaridade=&modalidade=&disciplina=503&assunto=9195&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=true&sem_desatualizadas=true&sem_anuladas_impressao=true&sem_desatualizadas_impressao=true&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=). 
 
 ### 23. Fundamentos de programação
@@ -175,6 +194,7 @@ Fundamentos de Computação
 23.1.3 seleção, 
 23.1.4 repetição e 
 23.1.5 desvio). 
+
 23.2 Estruturas de dados (
 23.2.1 listas, 
 23.2.2 pilhas, 
@@ -183,10 +203,13 @@ Fundamentos de Computação
 23.2.5 métodos de ordenação, 
 23.2.6 pesquisa e 
 23.2.7 hashing). 
+
 23.3 Análise de algoritmos e custo computacional (notação Big-O).
+
 23.4 Paradigmas de programação (
 23.4.1 programação orientada a objetos e 
 23.4.2 programação estruturada). 
+
 23.5 Compiladores e 
 23.6 interpretadores. 
 
