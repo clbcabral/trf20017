@@ -288,17 +288,26 @@ Fundamentos de Computação
 
 ### 31. Gerenciamento de serviços:
 
-31.1 ITIL v.3 edição 2011: 	
-31.1.1 Conceitos, 
-31.1.2 estrutura e objetivos, 
-31.1.3 funções, 
-31.1.4 processos dos estágios Estratégia de Serviços, 
-31.1.5 Desenho de Serviços, 
-31.1.6 Transição de Serviços e 
-31.1.7 Operação de Serviços. 
-31.2 Contratações de soluções de TI: 
-31.2.1 Instrução Normativa nº 04, 
-31.2.2 MPOG/SLTI, de 11 de setembro de 2014 atualizada com a redação dada
-pela Instrução Normativa nº 2, de 12 de janeiro de 2015. 
+31.1 [ITIL v.3 edição 2011](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=%22itil+v3%22&instituto=&organizadora=1&prova=&ano_publicacao=&cargo=&escolaridade=&modalidade=&disciplina=&assunto=&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=true&sem_desatualizadas=true&sem_anuladas_impressao=true&sem_desatualizadas_impressao=true&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=):
+
+31.1.1 Conceitos,
+
+31.1.2 estrutura e objetivos,
+
+31.1.3 funções,
+
+31.1.4 processos dos estágios Estratégia de Serviços,
+
+31.1.5 Desenho de Serviços,
+
+31.1.6 Transição de Serviços e
+
+31.1.7 Operação de Serviços.
+
+31.2 Contratações de soluções de TI:
+
+31.2.1 Instrução Normativa nº 04,
+
+31.2.2 MPOG/SLTI, de 11 de setembro de 2014 atualizada com a redação dada pela Instrução Normativa nº 2, de 12 de janeiro de 2015.
 
 ### 32. Inglês técnico. 
