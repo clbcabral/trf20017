@@ -70,7 +70,8 @@ Atos Normativos:
 Fundamentos de Computação
 =
 
-1. Componentes e arquiteturas de sistemas computacionais (hardware e software). 
+1. [Componentes e arquiteturas de sistemas computacionais (hardware e software)](https://www.qconcursos.com/questoes-de-concursos/disciplinas/tecnologia-da-informacao-arquitetura-de-computadores/arquiteturas). 
+
 2. Representação de dados: 
 2.1 binário, hexadecimal e decimal; 
 2.2 aritmética computacional. 
